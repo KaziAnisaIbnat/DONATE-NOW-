@@ -1,0 +1,225 @@
+
+.Me-header{
+    width: 1330px;
+    height: 630px;
+    background-image: url('images/2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+     background-size: cover; 
+    background-color: #444141;
+    background-blend-mode: multiply;
+}
+.white{
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+    padding-top: 4rem;
+}
+.money{
+    display: flex;
+    font-size: 3rem;
+    padding-left: 220px;
+    list-style: none;
+padding-top: 1rem;
+}
+.p{
+    text-align: center;
+    color: white;
+}
+.btn{
+    background-color: tomato; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    border-radius: 3px;
+}
+.desing-btn{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 100px;
+}
+.p-2{
+    color: #444141;
+    padding-top: 19px;
+    text-align: center;
+    font-size: 20px;
+}
+.desing-me-1{
+    background-color: #5db89a;
+    height: 300px;
+    width: 280px ;
+}
+.desing-me-2{
+    background-color: #c8ec63;
+    height: 300px;
+    width: 280px ;
+}
+.desing-me-3{
+    background-color: #77ce5c;
+    height: 300px;
+    width: 280px ;
+}
+.desing-me-1{
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+.desing-me-2{
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+.desing-me-3{
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+h2{
+    padding-left: 4rem;
+    font-size: 32px;
+}
+.padding{
+    padding-left: 4rem;
+}
+.CONTAINER{
+    display: flex;
+    gap: 50px;
+    padding-left: 150px;
+    padding-top: 3rem;
+}
+.Big-text{
+    font-size: 3rem;
+    padding-top: 30px;
+}
+.Big-text-1{
+    font-size: 3rem;
+    padding-top: 120px;
+    padding-left: 30rem;
+}
+.p-3{
+    color: #444141;
+    padding-top: 19px;
+    font-size: 20px;
+    padding-bottom: 2rem;
+}
+.p-4{
+    color: #444141;
+    padding-top: 19px;
+    font-size: 20px;}
+.p-5{
+    color: #444141;
+    padding-top: 19px;
+    padding-left: 23rem ;
+    font-size: 20px;}
+.p-6{
+    color: #444141;
+    padding-left: 27rem ;
+    font-size: 20px;}
+    .CONTAINER-1{
+        display: flex;
+        padding-left: 10rem;
+        padding-right: 3rem;
+        padding-top: 120px;
+    }
+    .CONTAINER-2{
+        display: flex;
+        padding-left: 12rem;
+        padding-right: 3rem;
+        padding-top: 120px;
+    }
+    .sec-1{
+        padding-right: 9rem;
+    }
+    .sec-2{
+        padding-left:9rem ;
+    }
+    .btn-2{
+        background-color: #c53c24; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 22px;
+        border-radius: 3px;
+    }
+    .btn-3{
+        background-color: #c53c24; 
+        border: none;
+        color: white;
+        padding: 11px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 3px;
+    }
+.boss{
+    display: flex;
+    gap: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 70px;
+}
+    .tk{
+        background-color: #f8f6f6;
+        width: 180px;
+        height: 90px;
+        font-size: 2rem;
+        text-align: center;
+        padding-top: 50px;
+        list-style: none;
+        border-radius: 8px;
+    }
+    .tk-d{
+        background-color: #fdc0c0;
+        width: 180px;
+        height: 90px;
+        font-size: 2rem;
+        text-align: center;
+        padding-top: 50px;
+        list-style: none;
+        border-radius: 8px;
+        border: 2px solid red;
+    }
+    .wee{
+        font-size: 3rem;
+    }
+.lo{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+    .backround-color{
+        width: 560px;
+        height: 90px;
+        background-color: #f8f0c4;
+        padding-top: 3rem;
+        padding-left: 12rem;
+    }
+    .Me-MASTER{
+        padding-left: 20rem;
+        padding-bottom: 100px;
+    }
+    .bee{
+        width: 1322px;
+        height: 200px;
+        background-color: #04052c;
+        background-size: cover;
+    }
+    .color{
+        padding-top: 50px;
+        color: #c9523d;
+        text-align: center;
+        font-size: 2rem;
+    }
+    .white-1{
+        color: white;
+        padding-left: 40rem;
+        font-size: 15px;
+        padding-top: 1rem;
+    }
